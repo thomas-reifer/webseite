@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+@plugin "@tailwindcss/typography";
+
+body {
+  color: black;
+}
+a {
+  text-decoration: none !important;
+}
+@theme static {
+  --font-sans: "Satoshi", sans-serif;
+
+  --breakpoint-3xl: 1920px;
+
+  /* ⚠️ WICHTIG: Diese Farben müssen mit app.config.ts synchronisiert werden! */
+  /* Diese Farben werden für Tailwind-Klassen verwendet (bg-background, bg-accent, text-primary, etc.) */
+  /* Die Farben in app.config.ts werden für Nuxt UI Komponenten verwendet (UButton, UBadge, etc.) */
+  /* Harmonische, warme Palette - alle Töne passen zusammen */
+  --color-primary: #735448;       /* Warmes, mittleres Braun - Hauptfarbe für Buttons */
+  --color-secondary: #b8a082;    /* Sanftes, helles Braun - Sekundäre Elemente */
+  --color-accent: #d9c5b4;       /* Sehr sanftes Beige - Karten & Akzente */
+  --color-background: #e7ded3;    /* Warmes, sehr helles Creme - Haupt-Hintergrund */
+  --color-surface:260101;       /* Fast weißes, warmes Creme - Karten-Hintergrund */
+  --color-text: #260101;          /* Warmes, dunkles Grau-Braun - Gute Lesbarkeit */
+  --color-highlight: #e8ddd0;     /* Sehr sanftes, warmes Beige - Subtile Highlights */
+  --color-dark: #260101;          /* Warmes, dunkles Braun-Grau - Footer */
+}
+@layer utilities {
+  .prose {
+    --tw-prose-body: hsl(var(--color-slate-900));
+    --tw-prose-headings: hsl(var(--color-slate-900));
+    /* Alle weiteren Vars überschreiben */
+  }
+}
