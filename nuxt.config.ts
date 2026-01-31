@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
-  modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui", "@nuxtjs/seo", "@nuxt/content", "nuxt-studio"],
+  modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui", "@nuxtjs/seo", "@nuxt/content"],
   content: {
     experimental: { nativeSqlite: true },
   },
@@ -34,19 +34,7 @@ export default defineNuxtConfig({
         maxAge: 31536000,
         includeSubdomains: true,
         preload: true
+ 	}
       }
     }
-  },
-  studio: {
-    // Studio admin route (default: '/_studio')
-    route: '/_studio',
-    
-    // Git repository configuration (owner and repo are required)
-    repository: {
-      provider: 'github', // 'github' or 'gitlab'
-      owner: 'thomas-reifer', // your GitHub/GitLab username or organization
-      repo: 'thomasreifer-website', // your repository name
-      branch: 'main', // the branch to commit to (default: main)
-    }
-  }
 });
