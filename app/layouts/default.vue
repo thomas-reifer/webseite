@@ -246,7 +246,7 @@ useHead({
 
             <div class="mt-2 opacity-80">
               <p>Sparkassenstraße 15</p>
-              <p>39100 Südtirol, Italien</p>
+              <p>39100 Bozen (BZ), Italien</p>
             </div>
             <p class="mt-6">
               © 2026 |
