@@ -49,10 +49,9 @@ const structuredData = {
       image: 'https://thomasreifer.com/portrait.jpg',
       telephone: '+4368181100843', // ✅ später ITA Nummer einfügen
       email: 'info@thomasreifer.com',
-      /* Hier ausgeklammert weil später noch Praxis-Adresse eingefügt wird!!!!!!!!
 	address: {
         '@type': 'PostalAddress',
-        streetAddress: '', // ✅ bitte ausfüllen (oder ganz entfernen, wenn du keine Adresse zeigen willst)
+        streetAddress: 'Sparkassenstraße 15', // ✅ bitte ausfüllen (oder ganz entfernen, wenn du keine Adresse zeigen willst)
         addressLocality: 'Bozen',
         postalCode: '39100',
         addressRegion: 'Südtirol',
@@ -60,10 +59,10 @@ const structuredData = {
       },
       geo: {
         '@type': 'GeoCoordinates',
-        latitude: '',  // ✅ Koordinaten in Bozen eintragen
-        longitude: '',
+        latitude: '46.49943',  // ✅ Koordinaten in Bozen eintragen
+        longitude: '11.34955',
       },
-      */
+
       
 	areaServed: [
         {
@@ -91,9 +90,9 @@ const structuredData = {
       openingHoursSpecification: {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: [
-          // 'Monday',
-          // 'Tuesday',
-          // 'Wednesday',
+          'Monday',
+          'Tuesday',
+          'Wednesday',
           'Thursday',
           'Friday'
         ],
@@ -246,7 +245,7 @@ useHead({
             </div>
 
             <div class="mt-2 opacity-80">
-              <p>Bozen</p>
+              <p>Sparkassenstraße 15</p>
               <p>39100 Südtirol, Italien</p>
             </div>
             <p class="mt-6">
