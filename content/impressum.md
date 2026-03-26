@@ -8,7 +8,7 @@ navigation: false
 
 **Webseitenbetreiber:** Thomas Reifer, MSc.
 
-**Sitz der Praxis:** 39100 Bozen (BZ) · Südtirol, Italien
+**Sitz der Praxis:** Sparkassenstraße 15 · 39100 Bozen (BZ) · Südtirol, Italien
 
 **Kontaktdaten:** Telefon: +43 681 81100843 · E-Mail: <info@thomasreifer.com>
 
