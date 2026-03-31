@@ -10,7 +10,7 @@ navigation: false
 
 **Sitz der Praxis:** Sparkassenstraße 15 · 39100 Bozen (BZ) · Südtirol, Italien
 
-**Kontaktdaten:** Telefon: +43 681 81100843 · E-Mail: <info@thomasreifer.com>
+**Kontaktdaten:** Telefon: +39 3937070062 · E-Mail: <info@thomasreifer.com>
 
 **Partita IVA:** 03342600214
 
