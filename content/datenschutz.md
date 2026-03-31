@@ -87,7 +87,7 @@ https://www.garanteprivacy.it
 
 **Webseitenbetreiber:** Thomas Reifer, MSc.
 
-**Telefon:** +43 681 81100843  
+**Telefon:** +39 3937070062  
 **E-Mail:** <info@thomasreifer.com>
 
 **Rechtstext-Quelle:** DSGVO Datenschutz Generator
