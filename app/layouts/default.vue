@@ -237,7 +237,7 @@ useHead({
           <div class="flex flex-col gap-2 p-6 items-start">
             <p class="font-bold text-lg">Thomas Reifer, MSc.</p>
             <p class="-mt-2">Psychologe · Eingetragen in der Psychologenkammer der Provinz Bozen</p>
-	    <p class="-mt-2">Psychotherapeut in Ausbildung unter Supervision (Schwerpunkt KVT)</p>
+	    <p class="-mt-2">Psychotherapeut i.A. u. Supervision (KVT mit interpersonalem Schwerpunkt)</p>
 
             <div class="mt-2 opacity-80">
               <p class="">+39 393 7070062</p>
