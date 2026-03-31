@@ -240,7 +240,7 @@ useHead({
 	    <p class="-mt-2">Psychotherapeut in Ausbildung unter Supervision (Schwerpunkt KVT)</p>
 
             <div class="mt-2 opacity-80">
-              <p class="">+43 681 81100843</p>
+              <p class="">+39 393 7070062</p>
               <p>info@thomasreifer.com</p>
             </div>
 
