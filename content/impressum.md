@@ -12,8 +12,7 @@ Angaben gemäß Art. 35 DPR 633/1972 sowie Art. 7 D.Lgs. 70/2003
 **Partita IVA:** 03342600214
 
 **Berufsbezeichnung:** Psychologe 
-Eingetragen in das Verzeichnis der Psychologen der Provinz Bozen (Ordine degli Psicologi della Provinz di Bolzano), Nr. 04BZ1204.  
-*Psychotherapeut in Ausbildung unter Supervision*
+Eingetragen in das Verzeichnis der Psychologen der Provinz Bozen (Ordine degli Psicologi della Provinz di Bolzano), Nr. 04BZ1204. · *Psychotherapeut in Ausbildung unter Supervision*
 
 **Hinweis zu erbrachten Leistungen:** Psychologische Leistungen sind sanitäre Leistungen und somit von der MwSt. befreit (Art. 10 DPR 633/72). Die Honorarnoten können im Rahmen der jährlichen Steuererklärung als Sanitätsspesen geltend gemacht werden.
 
