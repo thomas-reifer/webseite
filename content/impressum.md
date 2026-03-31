@@ -16,6 +16,7 @@ Eingetragen in das Verzeichnis der Psychologen der Provinz Bozen (Ordine degli P
 *Psychotherapeut in Ausbildung unter Supervision*
 
 **Hinweis zu erbrachten Leistungen:** Psychologische Leistungen sind sanitäre Leistungen und somit von der MwSt. befreit (Art. 10 DPR 633/72). Die Honorarnoten können im Rahmen der jährlichen Steuererklärung als Sanitätsspesen geltend gemacht werden.
+
 ---
 
 #### Haftung für Inhalte
