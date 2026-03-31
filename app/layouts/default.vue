@@ -47,7 +47,7 @@ const structuredData = {
       url: 'https://thomasreifer.com',
       logo: 'https://thomasreifer.com/logo.png',
       image: 'https://thomasreifer.com/portrait.jpg',
-      telephone: '+4368181100843', // ✅ später ITA Nummer einfügen
+      telephone: '+393937070062', // ✅ später ITA Nummer einfügen
       email: 'info@thomasreifer.com',
 	address: {
         '@type': 'PostalAddress',
