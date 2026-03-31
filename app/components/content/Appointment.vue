@@ -12,7 +12,7 @@
                     <div class="h-[1px] mt-1 bg-[#202020] flex-1"></div>
                 </div>
                 <div>
-                    <span class="block">per Telefon: <a href="tel:+43 68181100843" class="text-primary hover:underline">+43 681 81100843</a></span>
+                    <span class="block">per Telefon: <a href="tel:+39 393 7070062" class="text-primary hover:underline">+43 681 81100843</a></span>
                     <span class="block">per E-Mail: <a href="mailto:info@thomasreifer.com">info@thomasreifer.com</a></span>
                 </div>
             </div>
