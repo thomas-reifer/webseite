@@ -12,7 +12,7 @@ navigation: false
 
 **Kontaktdaten:** Telefon: +43 681 81100843 · E-Mail: <info@thomasreifer.com>
 
-**Partita IVA:** beantragt
+**Partita IVA:** 03342600214
 
 **Berufsbezeichnung:** Psychologe · Eingetragen in der Psychologenkammer der Provinz Bozen (Ordine degli Psicologi della Provincia di Bolzano) 
 Psychotherapeut in Ausbildung unter Supervision
