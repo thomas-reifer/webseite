@@ -4,24 +4,24 @@ navigation: false
 
 # Impressum
 
-**Angaben gemäß Art. 35 DPR 633/1972 sowie Art. 7 D.Lgs. 70/2003**
+Angaben gemäß Art. 35 DPR 633/1972 sowie Art. 7 D.Lgs. 70/2003
 
 **Webseitenbetreiber:** Thomas Reifer, MSc.
-
 **Sitz der Praxis:** Sparkassenstraße 15 · 39100 Bozen (BZ) · Südtirol, Italien
-
-**Kontaktdaten:** Telefon: +39 3937070062 · E-Mail: <info@thomasreifer.com>
-
+**Kontaktdaten:** Telefon: +39 3937070062 · E-Mail: info@thomasreifer.com
 **Partita IVA:** 03342600214
 
-**Berufsbezeichnung:** Psychologe · Eingetragen in der Psychologenkammer der Provinz Bozen (Ordine degli Psicologi della Provincia di Bolzano) 
-Psychotherapeut in Ausbildung unter Supervision
+**Berufsbezeichnung:** Psychologe 
+Eingetragen in das Verzeichnis der Psychologen der Provinz Bozen (Ordine degli Psicologi della Provinz di Bolzano), Nr. 04BZ1204.  
+*Psychotherapeut in Ausbildung unter Supervision*
 
-### Haftung für Inhalte:
+---
+
+#### Haftung für Inhalte
 Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte wird jedoch keine Gewähr übernommen.
 
-### Haftung für Links:
-Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte wird keine Haftung übernommen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich.
+#### Haftung für Links
+Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte wird keine Haftung übernommen.
 
-### Urheberrecht:
-Die durch den Seitenbetreiber erstellten Inhalte und Werke auf dieser Website unterliegen dem italienischen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung oder jede Art der Verwertung außerhalb der gesetzlichen Bestimmungen bedarf der vorherigen schriftlichen Zustimmung des jeweiligen Autors.
+#### Urheberrecht
+Die durch den Seitenbetreiber erstellten Inhalte auf dieser Website unterliegen dem italienischen Urheberrecht. Die Vervielfältigung oder Verwertung bedarf der vorherigen schriftlichen Zustimmung.
