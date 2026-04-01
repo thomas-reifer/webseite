@@ -46,7 +46,7 @@ Sie haben bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich das Recht 
 
 ## Verantwortliche Stelle
 
-**Webseitenbetreiber:** Thomas Reifer, MSc.  
+**Webseitenbetreiber:** Dr. Thomas Reifer  
 **Telefon:** +39 3937070062  
 **E-Mail:** info@thomasreifer.com
 
