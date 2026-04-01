@@ -189,7 +189,7 @@ useHead({
                 class="inline text-primary"
               />
 	     -->
-              Thomas Reifer, MSc.</nuxt-link
+              Thomas Reifer</nuxt-link
             >
           </div>
           <div>
