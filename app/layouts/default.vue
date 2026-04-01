@@ -17,17 +17,17 @@ watch(
 );
 
 useSeoMeta({
-  title: "Psychologe in Bozen (Südtirol) – Thomas Reifer, MSc.",
+  title: "Psychologe in Bozen (Südtirol) – Dr. Thomas Reifer",
   description:
     "Psychologe in Bozen (Südtirol): Psychologische Beratung, Diagnostik und psychotherapeutische Behandlung für Jugendliche und Erwachsene. Unterstützung bei Depression, Ängsten, Burnout, ADHS und Trauma – vor Ort in Bozen oder online.",
   keywords: "Psychologe Bozen, Psychologe Südtirol, Psychotherapie Bozen, Psychologische Beratung Südtirol, Therapie Bozen, Depression Bozen, Angsttherapie Südtirol, ADHS Diagnostik Bozen, EMDR Südtirol",
-  ogTitle: "Psychologe in Bozen (Südtirol) – Thomas Reifer, MSc.",
+  ogTitle: "Psychologe in Bozen (Südtirol) – Dr. Thomas Reifer",
   ogDescription: "Psychologische Beratung, Diagnostik und Therapie für Jugendliche und Erwachsene in Bozen (Südtirol). Termine vor Ort oder online.",
   ogImage: "https://thomasreifer.com/portrait.jpg",
   ogUrl: "https://thomasreifer.com/",
   ogType: "website",
   ogLocale: "de_IT",
-  twitterTitle: "Psychologe in Bozen (Südtirol) – Thomas Reifer, MSc.",
+  twitterTitle: "Psychologe in Bozen (Südtirol) – Dr. Thomas Reifer",
   twitterDescription:
     "Psychologische Beratung und Therapie in Bozen (Südtirol) – für Jugendliche und Erwachsene, vor Ort oder online.",
   twitterImage: "https://thomasreifer.com/portrait.jpg",
@@ -41,7 +41,7 @@ const structuredData = {
     {
       '@type': 'MedicalBusiness',
       '@id': 'https://thomasreifer.com/#organization',
-      name: 'Thomas Reifer, MSc.',
+      name: 'Dr. Thomas Reifer',
       alternateName: 'Psychologe Bozen',
       description: 'Psychologe in Bozen (Südtirol) - Psychologische Beratung, Diagnostik und psychotherapeutische Behandlung für Jugendliche und Erwachsene.',
       url: 'https://thomasreifer.com',
@@ -93,11 +93,10 @@ const structuredData = {
           'Monday',
           'Tuesday',
           'Wednesday',
-          'Thursday',
-          'Friday'
+          'Thursday'
         ],
-        opens: '09:00',
-        closes: '18:00',
+        opens: '08:30',
+        closes: '18:30'
       },
       medicalSpecialty: [
         'Clinical Psychology',
@@ -121,7 +120,7 @@ const structuredData = {
       '@type': 'Person',
       '@id': 'https://thomasreifer.com/#person',
       name: 'Thomas Reifer',
-      alternateName: 'Thomas Reifer, MSc.',
+      alternateName: 'Dr. Thomas Reifer',
       jobTitle: 'Psychologe',
       worksFor: {
         '@id': 'https://thomasreifer.com/#organization'
@@ -235,7 +234,7 @@ useHead({
       <u-container>
         <div class="flex justify-between">
           <div class="flex flex-col gap-2 p-6 items-start">
-            <p class="font-bold text-lg">Thomas Reifer, MSc.</p>
+            <p class="font-bold text-lg">Dr. Thomas Reifer</p>
             <p class="-mt-2">Psychologe · Eingetragen in der Psychologenkammer der Provinz Bozen</p>
 	    <p class="-mt-2">Psychotherapeut i.A. u. Supervision (KVT mit interpersonalem Schwerpunkt)</p>
 
