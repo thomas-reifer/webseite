@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   },
   site: {
     url: "https://thomasreifer.com",
-    name: "Thomas Reifer, MSc.",
+    name: "Dr. Thomas Reifer",
     description: "Psychologe in Bozen (Südtirol). Psychologische Beratung, Diagnostik und psychotherapeutische Begleitung für Erwachsene und Jugendliche – vor Ort oder online.",
     defaultLocale: "de",
   },
