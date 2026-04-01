@@ -6,7 +6,7 @@ navigation: false
 
 Angaben gemäß Art. 35 DPR 633/1972 sowie Art. 7 D.Lgs. 70/2003
 
-**Webseitenbetreiber:** Thomas Reifer, MSc. <br>
+**Webseitenbetreiber:** Dr. Thomas Reifer <br>
 **Sitz der Praxis:** Sparkassenstraße 15 · 39100 Bozen (BZ) · Südtirol, Italien <br>
 **Kontaktdaten:** Telefon: +39 3937070062 · E-Mail: info@thomasreifer.com <br>
 **Partita IVA:** 03342600214
