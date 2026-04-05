@@ -9,7 +9,7 @@ sitemap:
    lastmod: 2026-03-31
 ---
 
-## Psychologische Therapie für Erwachsene und Jugendliche
+# Psychologische Therapie für Erwachsene und Jugendliche
 
 Viele Erwachsene suchen psychologische Unterstützung, wenn Belastungen anhalten, Entscheidungen schwerfallen oder sich der Alltag zunehmend erschöpfend anfühlt. Anstatt Herausforderungen allein zu bewältigen, bietet die Therapie einen geschützten Raum, um **innere Klarheit zu gewinnen und festgefahrene Muster aktiv zu verändern**.
 
