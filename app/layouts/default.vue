@@ -47,8 +47,14 @@ const structuredData = {
       url: 'https://thomasreifer.com',
       logo: 'https://thomasreifer.com/logo.png',
       image: 'https://thomasreifer.com/portrait.jpg',
-      telephone: '+393937070062', // ✅ später ITA Nummer einfügen
+      telephone: '+393937070062', 
       email: 'info@thomasreifer.com',
+	  knowsAbout: ['Psychology', 'Psychotherapy'],
+	  memberOf: {
+        '@type': 'Organization',
+		name: 'Psychologenkammer der Provinz Bozen',
+		url: 'https://www.psibz.org/suche-mitglieder/mitgliederverzeichnis/thomas-reifer.html'
+		},	
 	address: {
         '@type': 'PostalAddress',
         streetAddress: 'Sparkassenstraße 15', // ✅ bitte ausfüllen (oder ganz entfernen, wenn du keine Adresse zeigen willst)
@@ -235,8 +241,9 @@ useHead({
         <div class="flex justify-between">
           <div class="flex flex-col gap-2 p-6 items-start">
             <p class="font-bold text-lg">Dr. Thomas Reifer</p>
-            <p class="-mt-2">Psychologe · Eingetragen in der Psychologenkammer der Provinz Bozen</p>
-	    <p class="-mt-2">Psychotherapeut i.A. u. Supervision (KVT mit interpersonalem Schwerpunkt)</p>
+         
+        <p class="-mt-2">Psychologe · Eingetragen in der <a href="https://www.psibz.org/suche-mitglieder/mitgliederverzeichnis/thomas-reifer.html" target="_blank" rel="noopener" class="underline hover:text-primary transition-colors">Psychologenkammer der Provinz Bozen </a> </p>
+        <p class="-mt-2 opacity-90">Psychotherapeut i.A. u. Supervision (KVT mit interpersonalem Schwerpunkt)</p>       
 
             <div class="mt-2 opacity-80">
               <p class="">+39 393 7070062</p>
