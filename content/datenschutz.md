@@ -51,3 +51,4 @@ Sie haben bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich das Recht 
 **E-Mail:** info@thomasreifer.com
 
 **Rechtstext-Quelle:** Adaptiert nach DSGVO Datenschutz Generator
+
