@@ -57,7 +57,7 @@ const structuredData = {
 		},	
 	address: {
         '@type': 'PostalAddress',
-        streetAddress: 'Sparkassenstraße 15', // ✅ bitte ausfüllen (oder ganz entfernen, wenn du keine Adresse zeigen willst)
+        streetAddress: 'Sparkassenstraße 15', 
         addressLocality: 'Bozen',
         postalCode: '39100',
         addressRegion: 'Südtirol',
@@ -65,7 +65,7 @@ const structuredData = {
       },
       geo: {
         '@type': 'GeoCoordinates',
-        latitude: '46.49943',  // ✅ Koordinaten in Bozen eintragen
+        latitude: '46.49943',  
         longitude: '11.34955',
       },
 
@@ -248,6 +248,10 @@ useHead({
             <div class="mt-2 opacity-80">
               <p class="">+39 393 7070062</p>
               <p>info@thomasreifer.com</p>
+				<a href="https://www.linkedin.com/in/thomas-reifer" target="_blank" rel="noopener" class="flex items-center gap-1 mt-1 hover:text-primary transition-colors">
+					<Icon name="entypo-social:linkedin-with-circle" size="16" />
+					LinkedIn
+					</a>
             </div>
 
             <div class="mt-2 opacity-80">
