@@ -14,8 +14,7 @@ useSeoMeta(page.value?.seo || {});
 <template>
   <u-container class="prose no-underline">
     <div v-if="page" class="flex flex-col md:flex-row gap-6 items-start">
-      <!-- Bild nur anzeigen, wenn data.image gesetzt ist -->
-
+      
       <div :class="{'md:w-2/3': page?.meta?.image}">
         <ContentRenderer
           v-if="'body' in page && page.body"
@@ -23,18 +22,17 @@ useSeoMeta(page.value?.seo || {});
         />
         <div v-else>Not Found</div>
       </div>
+
       <nuxt-img
-        v-if="
-          'meta' in page &&
-          page.meta &&
-          typeof page.meta === 'object' &&
-          'image' in page.meta &&
-          page.meta.image
-        "
+        v-if="page?.meta?.image"
         :src="String(page.meta.image)"
-        :alt="`Bild zu ${'title' in page ? page.title : ''}`"
+        :alt="page.title ? page.title + ' - Psychologe Dr. Thomas Reifer Bozen' : 'Dr. Thomas Reifer'"
+        loading="lazy"
+        width="600"
+        height="800"
         class="rounded-lg w-full md:w-1/2 object-cover"
       />
+      
     </div>
     <div v-else>Not Found</div>
   </u-container>
