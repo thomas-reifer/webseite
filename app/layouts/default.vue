@@ -39,7 +39,7 @@ const structuredData = {
   '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'MedicalBusiness',
+      '@type': 'Psychologist',
       '@id': 'https://thomasreifer.com/#organization',
       name: 'Dr. Thomas Reifer',
       alternateName: 'Psychologe Bozen',
@@ -49,7 +49,6 @@ const structuredData = {
       image: 'https://thomasreifer.com/portrait.jpg',
       telephone: '+393937070062', 
       email: 'info@thomasreifer.com',
-	  knowsAbout: ['Psychology', 'Psychotherapy'],
 	  memberOf: {
         '@type': 'Organization',
 		name: 'Psychologenkammer der Provinz Bozen',
@@ -104,23 +103,13 @@ const structuredData = {
         opens: '08:30',
         closes: '18:30'
       },
-      medicalSpecialty: [
-        'Clinical Psychology',
-        'Psychotherapy',
-        'Child Psychology',
-        'Adult Psychology',
-        'Psychological Assessment'
-      ],
-      serviceType: [
-        'Klinisch-psychologische Therapie',
-        'Psychologische Diagnostik',
-        'Psychologische Beratung',
-        'EMDR Therapie',
-        'ADHS Diagnostik',
-        'Traumatherapie',
-        'Angsttherapie',
-        'Depressionstherapie'
-      ],
+	knowsAbout: [
+  	'Psychology', 'Psychotherapy', 'Stressmanagement', 'Burnout-Prävention', 
+  	'Depressionstherapie', 'Angststörungen', 'Zwangsstörungen', 'Traumatherapie', 
+  	'Persönlichkeitsstörungen', 'Psychosomatik', 'Chronische Schmerzen', 
+  	'Orientierungshilfe', 'Entscheidungscoaching', 'EMDR', 'ADHS Diagnostik', 
+  	'Kognitive Verhaltenstherapie', 'Online-Therapie'
+	],
     },
     {
       '@type': 'Person',
