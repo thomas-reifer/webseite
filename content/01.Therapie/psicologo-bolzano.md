@@ -45,7 +45,7 @@ Pensieri e rituali logoranti sottraggono molta energia. Insieme apprendiamo tecn
 Utilizzando metodi come l'EMDR, ti accompagno nel processo di elaborazione emotiva di esperienze travolgenti, restituendoti la calma e la stabilità necessarie per vivere nel presente.
 
 ## Disturbi del sonno
-Un sonno ristoratore è la base della resilienza. Troviamo modi per interrompere il rimuginio notturno e ripristinare la naturale capacità di rilassamento per affrontare la giornata con nuova energia.
+Un somno ristoratore è la base della resilienza. Troviamo modi per interrompere il rimuginio notturno e ripristinare la naturale capacità di rilassamento per affrontare la giornata con nuova energia.
 
 ## Malattie croniche e fisiche:
 
