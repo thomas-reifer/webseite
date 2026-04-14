@@ -16,7 +16,6 @@
     "@nuxt/eslint": "1.10.0",
     "@nuxt/image": "2.0.0",
     "@nuxt/ui": "4.2.1",
-    "@nuxtjs/gtm": "2.4.0",
     "@nuxtjs/seo": "^3.2.2",
     "@types/nodemailer": "^7.0.4",
     "eslint": "^9.39.1",
