@@ -1,5 +1,10 @@
 ---
+title: Datenschutz
+description: Informationen zur Datenverarbeitung gemäß DSGVO.
 navigation: false
+seo:
+  noindex: true
+  nofollow: true
 ---
 
 # Datenschutzerklärung
