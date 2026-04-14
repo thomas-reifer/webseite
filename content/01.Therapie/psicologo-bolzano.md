@@ -25,7 +25,8 @@ L'obiettivo del mio **servizio psicologico a Bolzano** è attivare le tue risors
 - [Disturbi ossessivi](#disturbi-ossessivi)
 - [Traumi ed esperienze traumatiche](#traumi-ed-esperienze-traumatiche)
 - [Disturbi del sonno](#disturbi-del-sonno)
-- **Supporto per malattie fisiche:**
+  
+**Supporto per malattie fisiche:**
   - [Malattie croniche e gestione del dolore](#malattie-croniche-e-gestione-del-dolore)
   - [Oncologia](#oncologia)
   - [Cardiologia](#cardiologia)
