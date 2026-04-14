@@ -1,15 +1,15 @@
 ---
-title: Psicologo Bolzano (IT)
-description: Studio di psicologia a Bolzano. Dr. Thomas Reifer offre consulenza e sostegno psicologico a Bolzano. Informazioni sui servizi e ambiti di intervento.
+title: "Psicologo Bolzano (IT)"
+description: "Studio di psicologia a Bolzano. Dr. Thomas Reifer offre consulenza e sostegno psicologico a Bolzano. Informazioni sui servizi e ambiti di intervento."
 seo:
-  title: Psicologo Bolzano | Consulenza e Psicologia a Bolzano
-  description: Cerchi uno psicologo a Bolzano? Informazioni professionali su psicologia e sostegno psicologico con sedute esclusivamente in lingua tedesca.
+  title: "Psicologo Bolzano | Consulenza e Psicologia a Bolzano"
+  description: "Cerchi uno psicologo a Bolzano? Informazioni professionali su psicologia e sostegno psicologico con sedute esclusivamente in lingua tedesca."
 sitemap:
   loc: /therapie/psicologo-bolzano
   lastmod: 2026-04-14
 ---
 
-# Psicologo a Bolzano – Servizio di Psicologia e Consulenza
+# Psicologo a Bolzano - Servizio di Psicologia e Consulenza
 
 Molti adulti cercano un supporto nel campo della **psicologia a Bolzano** quando le sfide quotidiane diventano opprimenti. In qualità di **psicologo a Bolzano**, offro un punto di riferimento professionale per chi necessita di consulenza e sostegno psicologico.
 
@@ -23,7 +23,7 @@ L'obiettivo del mio **servizio psicologico a Bolzano** è attivare le tue risors
 - [Depressione e stati di tristezza](#depressione)
 - [Ansia e attacchi di panico](#ansia-e-attacchi-di-panico)
 - [Disturbi ossessivi](#disturbi-ossessivi)
-- [Traumi ed esperienze traumatiche](#traumi-ed-experienze-traumatiche)
+- [Traumi ed esperienze traumatiche](#traumi-ed-esperienze-traumatiche)
 - [Disturbi del sonno](#disturbi-del-sonno)
 - **Supporto per malattie fisiche:**
   - [Malattie croniche e gestione del dolore](#malattie-croniche-e-gestione-del-dolore)
@@ -70,6 +70,6 @@ La ridotta tolleranza allo sforzo richiede un nuovo management dell'energia (Pac
 ---
 
 ## Fiducia e professionalità
-Sono regolarmente iscritto all'**Ordine degli Psicologi della Provincia di Bolzano**. Questo garantisce il rispetto dei più alti standard qualitativi previsti per gli **psicologi a Bolzano**.
+Sono regolarmente **iscritto all'albo** presso l'**Ordine degli Psicologi della Provincia di Bolzano**. Questo garantisce il rispetto dei più alti standard qualitativi previsti per un centro di consulenza e per gli **psicologi a Bolzano**.
 
 **Nota linguistica:** Si informa che i colloqui di consulenza e le terapie si svolgono **unicamente in lingua tedesca**. Se desideri fissare un appuntamento in tedesco, puoi farlo tramite il modulo di contatto o [online](/termin).
