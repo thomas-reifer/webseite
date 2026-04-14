@@ -35,11 +35,13 @@ useSeoMeta({
 });
 
 // Structured Data für LocalBusiness/MedicalBusiness (JSON-LD)
+// Finaler, vollständiger Code-Block für Semrush & Google
 const structuredData = {
   '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'Psychologist',
+      // WICHTIG: Kombiniert Psychologe + Business für maximale Kompatibilität
+      '@type': ['Psychologist', 'MedicalBusiness'], 
       '@id': 'https://thomasreifer.com/#organization',
       name: 'Dr. Thomas Reifer',
       alternateName: 'Psychologe Bozen',
@@ -49,12 +51,17 @@ const structuredData = {
       image: 'https://thomasreifer.com/portrait.jpg',
       telephone: '+393937070062', 
       email: 'info@thomasreifer.com',
-	  memberOf: {
+      
+      // ✅ Diese beiden Zeilen lösen die Semrush-Fehler auf
+      medicalSpecialty: 'Psychology',
+      serviceType: 'Psychological Services', 
+
+      memberOf: {
         '@type': 'Organization',
-		name: 'Psychologenkammer der Provinz Bozen',
-		url: 'https://www.psibz.org/suche-mitglieder/mitgliederverzeichnis/thomas-reifer.html'
-		},	
-	address: {
+        name: 'Psychologenkammer der Provinz Bozen',
+        url: 'https://www.psibz.org/suche-mitglieder/mitgliederverzeichnis/thomas-reifer.html'
+      },    
+      address: {
         '@type': 'PostalAddress',
         streetAddress: 'Sparkassenstraße 15', 
         addressLocality: 'Bozen',
@@ -67,49 +74,27 @@ const structuredData = {
         latitude: '46.49943',  
         longitude: '11.34955',
       },
-
-      
-	areaServed: [
-        {
-          '@type': 'City',
-          name: 'Bozen',
-        },
-        {
-          '@type': 'City',
-          name: 'Meran',
-        },
-        {
-          '@type': 'City',
-          name: 'Brixen',
-        },
-	{
-          '@type': 'City',
-          name: 'Sterzing',
-        },
-        {
-          '@type': 'State',
-          name: 'Südtirol',
-        }
+      areaServed: [
+        { '@type': 'City', name: 'Bozen' },
+        { '@type': 'City', name: 'Meran' },
+        { '@type': 'City', name: 'Brixen' },
+        { '@type': 'City', name: 'Sterzing' },
+        { '@type': 'State', name: 'Südtirol' }
       ],
       priceRange: '€€',
       openingHoursSpecification: {
         '@type': 'OpeningHoursSpecification',
-        dayOfWeek: [
-          'Monday',
-          'Tuesday',
-          'Wednesday',
-          'Thursday'
-        ],
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday'],
         opens: '08:30',
         closes: '18:30'
       },
-	knowsAbout: [
-  	'Psychology', 'Psychotherapy', 'Stressmanagement', 'Burnout-Prävention', 
-  	'Depressionstherapie', 'Angststörungen', 'Zwangsstörungen', 'Traumatherapie', 
-  	'Persönlichkeitsstörungen', 'Psychosomatik', 'Chronische Schmerzen', 
-  	'Orientierungshilfe', 'Entscheidungscoaching', 'EMDR', 'ADHS Diagnostik', 
-  	'Kognitive Verhaltenstherapie', 'Online-Therapie'
-	],
+      knowsAbout: [
+        'Psychology', 'Psychotherapy', 'Stressmanagement', 'Burnout-Prävention', 
+        'Depressionstherapie', 'Angststörungen', 'Zwangsstörungen', 'Traumatherapie', 
+        'Persönlichkeitsstörungen', 'Psychosomatik', 'Chronische Schmerzen', 
+        'Orientierungshilfe', 'Entscheidungscoaching', 'EMDR', 'ADHS Diagnostik', 
+        'Kognitive Verhaltenstherapie', 'Online-Therapie'
+      ],
     },
     {
       '@type': 'Person',
@@ -125,7 +110,7 @@ const structuredData = {
     }
   ]
 };
-
+	
 useHead({
   htmlAttrs: {
     lang: "de-IT",
