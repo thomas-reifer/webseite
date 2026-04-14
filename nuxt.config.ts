@@ -4,22 +4,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
-  
-  // Hier wurde nur "@nuxtjs/gtm" am Ende hinzugefügt
-  modules: [
-    "@nuxt/eslint", 
-    "@nuxt/image", 
-    "@nuxt/ui", 
-    "@nuxtjs/seo", 
-    "@nuxt/content", 
-    "@nuxtjs/gtm"
-  ],
-
-  // Hier wurde nur deine GTM-ID hinterlegt
-  gtm: {
-    id: "GTM-N78CNRBX",
-  },
-
+  modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui", "@nuxtjs/seo", "@nuxt/content"],
   content: {
     experimental: { nativeSqlite: true },
   },
@@ -49,7 +34,7 @@ export default defineNuxtConfig({
         maxAge: 31536000,
         includeSubdomains: true,
         preload: true
+ 	}
       }
     }
-  }
 });
