@@ -1,5 +1,10 @@
 ---
+title: Impressum
+description: Rechtliche Angaben gemäß italienischer Gesetzgebung.
 navigation: false
+seo:
+  noindex: true
+  nofollow: true
 ---
 
 # Impressum
