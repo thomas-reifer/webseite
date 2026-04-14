@@ -1,11 +1,11 @@
 ---
-title: Psychologische Therapie für Erwachsene & Jugendliche in Bozen
-description: Psychologische Therapie für Erwachsene und Jugendliche in Bozen (Südtirol). Unterstützung bei Depression, Angststörungen, Burnout und Krisen. Termine vor Ort oder online.
+title: Psychotherapie (i.A.) & Psychologe Bozen Südtirol | Dr. Thomas Reifer
+description: Psychotherapie (i.A.) & Beratung in Bozen. Hilfe bei Burnout, Depression & Ängsten für Erwachsene & Jugendliche. Termine in der Sparkassenstraße & online.
 navigation:
-  title: Therapie: Erwachsene & Jugendliche
+  title: "Erwachsene & Jugendliche"
 seo:
-  title: Psychologische Therapie Bozen | Erwachsene & Jugendliche | Dr. Reifer
-  description: Fachkundige psychologische Therapie für Erwachsene und Jugendliche in Bozen. Behandlung von Depressionen, Ängsten und Burnout. Jetzt Erstgespräch vereinbaren.
+  title: "Psychotherapie Bozen | Dr. Thomas Reifer | Erwachsene & Jugendliche"
+  description: "Ihre Praxis für Psychotherapie (i.A.) & Beratung in Bozen. Spezialisierte Unterstützung bei Burnout & Krisen (HGV, Lehrpersonen, Jugendliche). Auch online."
 sitemap:
   loc: /therapie
   lastmod: 2026-04-14
