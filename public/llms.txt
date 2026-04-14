@@ -1,13 +1,17 @@
-# Dr. Thomas Reifer - Psychologe in Bozen
+# Dr. Thomas Reifer - Psychologe in Bozen | Psicologo Bolzano
 
-Psychologische Beratung, Diagnostik und klinische Begleitung für Erwachsene und Jugendliche in Bozen (Südtirol) und online.
+Psychologische Beratung, Diagnostik und klinische Begleitung in Bozen (Südtirol) und online.
+Servizi di consulenza psicologica, diagnosi e sostegno professionale a Bolzano e online.
 
-## Kerninhalte
+Wichtige Inhalte:
 - Startseite: https://thomasreifer.com/
-- Psychologische Therapie Erwachsene: https://thomasreifer.com/therapie/erwachsene
-- Ablauf & Kosten: https://thomasreifer.com/ablauf
-- Über mich: https://thomasreifer.com/ueber-mich
+- Psicologo Bolzano (ITA): https://thomasreifer.com/therapie/psicologo-bolzano
+- Therapie Erwachsene (DE): https://thomasreifer.com/therapie/erwachsene
+- Ablauf und Kosten: https://thomasreifer.com/ablauf
+- Ueber mich: https://thomasreifer.com/about
+- Häufige Fragen (FAQ): https://thomasreifer.com/faq
 
-## Kontakt
+Kontakt & Termine:
 - Termin vereinbaren: https://thomasreifer.com/termin
 - E-Mail: info@thomasreifer.com
+- Iscritto all'Ordine degli Psicologi della Provincia di Bolzano.
