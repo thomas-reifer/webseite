@@ -3,7 +3,7 @@ title: Psicologo Bolzano (IT)
 description: Studio di psicologia a Bolzano. Dr. Thomas Reifer offre consulenza e sostegno psicologico a Bolzano. Informazioni sui servizi e ambiti di intervento.
 seo:
   title: Psicologo Bolzano | Consulenza e Psicologia a Bolzano
-  description: Cerchi uno psicologo a Bolzano? Informazioni professionali su psicologia e sostegno psicologico. Nota: Le sedute si tengono esclusivamente in lingua tedesca.
+  description: Cerchi uno psicologo a Bolzano? Informazioni professionali su psicologia e sostegno psicologico con sedute esclusivamente in lingua tedesca.
 sitemap:
   loc: /therapie/psicologo-bolzano
   lastmod: 2026-04-14
