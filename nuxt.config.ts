@@ -3,13 +3,14 @@ export default defineNuxtConfig({
   ssr: true,
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
+// Umami Konfiguration (Host & ID bleiben gleich)
   umami: {
     id: "13d17051-d310-4ca4-ae6a-ebe72b37580f",
     host: "https://cloud.umami.is",
     autoTrack: true,
   },
   css: ["~/assets/css/main.css"],
-  modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui", "@nuxtjs/seo", "@nuxt/content", "nuxt-umami-analytics"],
+  modules: ["@nuxt/eslint", "@nuxt/image", "@nuxt/ui", "@nuxtjs/seo", "@nuxt/content", "nuxt-umami"],
   content: {
     experimental: { nativeSqlite: true },
   },
