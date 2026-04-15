@@ -23,6 +23,7 @@
     "nodemailer": "^7.0.6",
     "nuxt": "^4.2.1",
     "nuxt-studio": "1.0.0-beta.3",
+    "nuxt-umami-analytics": "^0.1.0",
     "typescript": "^5.9.3",
     "valibot": "^1.2.0",
     "vue": "^3.5.25",
