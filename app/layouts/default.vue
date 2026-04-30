@@ -206,7 +206,7 @@ useHead({
       </u-container>
       <slot />
       <Appointment
-        v-if="!['/datenschutz', '/impressum', '/termin'].includes(route.path)"
+ 	  v-if="route.path === '/termin'"
       />
     </div>
 
