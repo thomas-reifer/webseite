@@ -208,10 +208,6 @@ useHead({
       <Appointment
         v-if="!['/datenschutz', '/impressum', '/termin'].includes(route.path)"
       />
-	  <StickyBooking
-        v-if="!['/datenschutz', '/impressum', '/termin'].includes(route.path)"
-		calendar-url="https://cal.com/thomas-reifer/klinisch-psychologisches-erstgesprach"
-      />
     </div>
 
     <footer class="text-white text-left text-sm bg-dark">
