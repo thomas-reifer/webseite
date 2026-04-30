@@ -130,7 +130,7 @@ onUnmounted(() => {
   font-size: 11.5px;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   letter-spacing: 0.06em;
-  fill: #c4a882;
+  fill: #b8a082;
   text-transform: uppercase;
 }
 
@@ -140,7 +140,7 @@ onUnmounted(() => {
   width: 82px;
   height: 82px;
   border-radius: 50%;
-  background-color: #a0593a;
+  background-color: #8b7355;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -149,7 +149,7 @@ onUnmounted(() => {
   color: #fdf6ee;
   text-decoration: none;
   box-shadow:
-    0 4px 24px rgba(160, 89, 58, 0.38),
+    0 4px 24px rgba(139, 115, 85, 0.3), /* Schatten passend zum neuen Braun */
     0 1px 4px rgba(0, 0, 0, 0.12);
   transition:
     background-color 0.3s ease,
@@ -159,16 +159,16 @@ onUnmounted(() => {
 
 .booking-center:hover,
 .booking-center:focus-visible {
-  background-color: #8d4a2e;
+  background-color: #725e45;
   transform: scale(1.07);
   box-shadow:
-    0 8px 32px rgba(160, 89, 58, 0.48),
+    0 8px 32px rgba(114, 94, 69, 0.4),
     0 2px 8px rgba(0, 0, 0, 0.16);
   outline: none;
 }
 
 .booking-center:focus-visible {
-  outline: 2px solid #a0593a;
+  outline: 2px solid #8b7355;
   outline-offset: 4px;
 }
 
