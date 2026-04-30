@@ -1,61 +1,47 @@
 <template>
   <Transition name="booking-fade">
-    <div
+    <a
       v-if="visible"
+      :href="calendarUrl"
+      target="_blank"
+      rel="noopener noreferrer"
       class="booking-widget"
-      :class="{ 'is-hovered': isHovered }"
-      @mouseenter="isHovered = true"
-      @mouseleave="isHovered = false"
+      aria-label="Unverbindliches Beratungsgespräch online vormerken"
     >
-      <!-- Rotierender Textring -->
-      <div class="booking-ring" aria-hidden="true">
-        <svg
-          class="booking-ring__svg"
-          viewBox="0 0 140 140"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <defs>
-            <path
-              id="circle-path"
-              d="M 70,70 m -52,0 a 52,52 0 1,1 104,0 a 52,52 0 1,1 -104,0"
-            />
-          </defs>
-          <text class="booking-ring__text">
-            <textPath href="#circle-path" startOffset="0%">
-              Online Termin vormerken &nbsp;—&nbsp; Online Termin vormerken &nbsp;—&nbsp;
-            </textPath>
-          </text>
-        </svg>
-      </div>
-
-      <!-- Zentraler Button -->
-      <a
-        :href="calendarUrl"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="booking-center"
-        aria-label="Unverbindliches Beratungsgespräch online vormerken"
+      <svg
+        class="booking-svg"
+        viewBox="0 0 170 170"
+        xmlns="http://www.w3.org/2000/svg"
       >
-        <span class="booking-center__icon">
-          <svg
-            width="22"
-            height="22"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.6"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
-            <line x1="16" y1="2" x2="16" y2="6" />
-            <line x1="8" y1="2" x2="8" y2="6" />
-            <line x1="3" y1="10" x2="21" y2="10" />
-          </svg>
-        </span>
-        <span class="booking-center__label">Termin<br />vormerken</span>
-      </a>
-    </div>
+        <defs>
+          <path
+            id="arc-top"
+            d="M 15,85 a 70,70 0 0,1 140,0"
+          />
+          <filter id="soft-shadow">
+            <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#6b4f35" flood-opacity="0.15"/>
+          </filter>
+        </defs>
+
+        <!-- Äußerer feiner Ring -->
+        <circle cx="85" cy="85" r="82" fill="none" stroke="#c9aa88" stroke-width="0.7" opacity="0.4"/>
+
+        <!-- Hauptkreis -->
+        <circle cx="85" cy="85" r="52" fill="#7a6248" filter="url(#soft-shadow)"/>
+
+        <!-- Text oben im Halbmond -->
+        <text
+          font-family="'Cormorant Garamond', Georgia, serif"
+          font-size="13"
+          fill="#9a7e63"
+          letter-spacing="4"
+          text-anchor="middle"
+          style="text-transform: uppercase;"
+        >
+          <textPath href="#arc-top" startOffset="50%">Online Termin vormerken</textPath>
+        </text>
+      </svg>
+    </a>
   </Transition>
 </template>
 
@@ -70,13 +56,12 @@ const props = defineProps({
 })
 
 const visible = ref(false)
-const isHovered = ref(false)
-
 let showTimer = null
 
 function handleScroll() {
   if (window.scrollY > 80) {
     visible.value = true
+    window.removeEventListener('scroll', handleScroll)
   }
 }
 
@@ -84,9 +69,7 @@ onMounted(() => {
   if (window.scrollY > 80) {
     visible.value = true
   } else {
-    showTimer = setTimeout(() => {
-      visible.value = true
-    }, 2000)
+    showTimer = setTimeout(() => { visible.value = true }, 2000)
     window.addEventListener('scroll', handleScroll, { passive: true })
   }
 })
@@ -103,95 +86,23 @@ onUnmounted(() => {
   bottom: 2rem;
   right: 2rem;
   z-index: 9999;
-  width: 140px;
-  height: 140px;
+  width: 130px;
+  height: 130px;
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+  opacity: 0.85;
+  transition: opacity 0.4s ease;
+  text-decoration: none;
 }
 
-.booking-ring {
-  position: absolute;
-  inset: 0;
-  animation: spin 18s linear infinite;
+.booking-widget:hover {
+  opacity: 1;
 }
 
-.booking-widget.is-hovered .booking-ring {
-  animation-duration: 8s;
-}
-
-.booking-ring__svg {
+.booking-svg {
   width: 100%;
   height: 100%;
-}
-
-.booking-ring__text {
-  font-size: 11.5px;
-  font-family: 'Cormorant Garamond', 'Georgia', serif;
-  letter-spacing: 0.06em;
-  fill: #b8a082;
-  text-transform: uppercase;
-}
-
-.booking-center {
-  position: relative;
-  z-index: 2;
-  width: 82px;
-  height: 82px;
-  border-radius: 50%;
-  background-color: #8b7355;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  color: #fdf6ee;
-  text-decoration: none;
-  box-shadow:
-    0 4px 24px rgba(139, 115, 85, 0.3), /* Schatten passend zum neuen Braun */
-    0 1px 4px rgba(0, 0, 0, 0.12);
-  transition:
-    background-color 0.3s ease,
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
-}
-
-.booking-center:hover,
-.booking-center:focus-visible {
-  background-color: #725e45;
-  transform: scale(1.07);
-  box-shadow:
-    0 8px 32px rgba(114, 94, 69, 0.4),
-    0 2px 8px rgba(0, 0, 0, 0.16);
-  outline: none;
-}
-
-.booking-center:focus-visible {
-  outline: 2px solid #8b7355;
-  outline-offset: 4px;
-}
-
-.booking-center__icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0.92;
-}
-
-.booking-center__label {
-  font-size: 9.5px;
-  font-family: 'Cormorant Garamond', 'Georgia', serif;
-  letter-spacing: 0.08em;
-  text-align: center;
-  text-transform: uppercase;
-  line-height: 1.3;
-  opacity: 0.88;
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to   { transform: rotate(360deg); }
 }
 
 .booking-fade-enter-active {
@@ -203,40 +114,19 @@ onUnmounted(() => {
 .booking-fade-enter-from,
 .booking-fade-leave-to {
   opacity: 0;
-  transform: translateY(12px) scale(0.88);
+  transform: translateY(10px) scale(0.92);
 }
 
 @media (max-width: 640px) {
   .booking-widget {
-    width: 110px;
-    height: 110px;
+    width: 100px;
+    height: 100px;
     bottom: 1.25rem;
     right: 1.25rem;
-  }
-
-  .booking-ring__text {
-    font-size: 9.5px;
-  }
-
-  .booking-center {
-    width: 66px;
-    height: 66px;
-  }
-
-  .booking-center__icon svg {
-    width: 18px;
-    height: 18px;
-  }
-
-  .booking-center__label {
-    font-size: 8px;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .booking-ring {
-    animation: none;
-  }
   .booking-fade-enter-active,
   .booking-fade-leave-active {
     transition: opacity 0.3s ease;
