@@ -1,21 +1,70 @@
 <template>
-    <section class="py-30 bg-accent text-center">
-        <u-container class="max-w-sm prose">
-            <Header1>Erstgespräch vereinbaren</Header1>
-            <div class="max-w-sm mx-auto mt-4">
-                <div class="">
-                    <UButton to="/termin" size="xl" class="justify-center w-full">Termin anfragen</UButton>
-                </div>
-                <div class="flex items-center my-3">
-                    <div class="h-[1px] mt-1 bg-[#202020]  flex-1"></div>
-                    <span class="px-2 text-neutral">oder</span>
-                    <div class="h-[1px] mt-1 bg-[#202020] flex-1"></div>
-                </div>
-                <div>
-                    <span class="block">per Telefon: <a href="tel:+393937070062" class="text-primary hover:underline">+39 393 7070062</a></span>
-                    <span class="block">per E-Mail: <a href="mailto:info@thomasreifer.com">info@thomasreifer.com</a></span>
-                </div>
-            </div>
-        </u-container>
-    </section>
+  <div class="appointment-wrap">
+    <a
+      :href="calendarUrl"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="appointment-btn"
+    >
+      Erstgespräch online anfragen
+    </a>
+  </div>
 </template>
+
+<script setup>
+const props = defineProps({
+  calendarUrl: {
+    type: String,
+    default: 'https://cal.com/thomasreifer/beratungsgespraech',
+  },
+})
+</script>
+
+<style scoped>
+.appointment-wrap {
+  margin: 32px 0 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.appointment-btn {
+  display: inline-block;
+  background: #7a6248;
+  color: #f5ede0;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  padding: 18px 48px;
+  border-radius: 999px;
+  border: 1px solid rgba(245, 225, 195, 0.15);
+  text-decoration: none;
+  box-shadow: 0 3px 14px rgba(80, 55, 30, 0.09);
+  transition: background 0.4s ease, box-shadow 0.4s ease;
+  white-space: nowrap;
+}
+
+.appointment-btn:hover {
+  background: #6b5239;
+  box-shadow: 0 6px 22px rgba(80, 55, 30, 0.15);
+}
+
+.appointment-hint {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  color: #8a7060;
+  opacity: 0.72;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .appointment-btn {
+    white-space: normal;
+    text-align: center;
+    width: 100%;
+  }
+}
+</style>
