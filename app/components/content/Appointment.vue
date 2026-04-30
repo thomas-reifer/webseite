@@ -15,7 +15,7 @@
 const props = defineProps({
   calendarUrl: {
     type: String,
-    default: 'https://cal.com/thomasreifer/beratungsgespraech',
+    default: 'https://cal.com/thomas-reifer/klinisch-psychologisches-erstgesprach',
   },
 })
 </script>
