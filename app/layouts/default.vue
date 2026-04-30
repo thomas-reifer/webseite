@@ -205,9 +205,6 @@ useHead({
         </nav>
       </u-container>
       <slot />
-      <Appointment
- 	  v-if="route.path === '/termin'"
-      />
     </div>
 
     <footer class="text-white text-left text-sm bg-dark">
