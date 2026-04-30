@@ -208,6 +208,9 @@ useHead({
       <Appointment
         v-if="!['/datenschutz', '/impressum', '/termin'].includes(route.path)"
       />
+	  <StickyBooking
+        v-if="!['/datenschutz', '/impressum', '/termin'].includes(route.path)"
+      />
     </div>
 
     <footer class="text-white text-left text-sm bg-dark">
