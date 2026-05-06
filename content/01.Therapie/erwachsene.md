@@ -6,9 +6,6 @@ navigation:
 seo:
   title: "Psychotherapie Bozen | Dr. Thomas Reifer | Erwachsene & Jugendliche"
   description: "Ihre Praxis für Psychotherapie (i.A.) & Beratung in Bozen. Spezialisierte Unterstützung bei Burnout & Krisen (HGV, Lehrpersonen, Jugendliche). Auch online."
-sitemap:
-  loc: /therapie
-  lastmod: 2026-04-14
 ---
 
 # Psychologische Therapie für Erwachsene und Jugendliche
