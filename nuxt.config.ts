@@ -24,9 +24,6 @@ export default defineNuxtConfig({
     defaultLocale: "de",
   },
   robots: {
-    groups: [
-      { userAgent: ['GPTBot', 'ChatGPT-User'], disallow: ['/'] }
-    ],
     sitemap: 'https://thomasreifer.com/sitemap.xml',
   },
   ogImage: {
