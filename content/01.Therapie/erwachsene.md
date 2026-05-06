@@ -96,8 +96,8 @@ Ich unterstütze Sie dabei, einen schonenden Umgang mit Energie und Belastungsgr
 
 ## Termin vereinbaren
 
-In einem ersten Gespräch nehmen wir uns Zeit für Ihre aktuelle Situation. Wir klären, was Sie belastet, welche Unterstützung sinnvoll sein kann und welche nächsten Schritte möglich sind.
+Wenn Sie sich angesprochen fühlen oder herausfinden möchten, ob eine Zusammenarbeit passend ist, können wir in einem ersten Gespräch Ihre aktuelle Situation besprechen.
 
-→ [Jetzt Termin vereinbaren](/termin)
+Dabei klären wir gemeinsam, was Sie belastet, welche Unterstützung sinnvoll sein kann und welche nächsten Schritte möglich sind.
 
-Praxis in Bozen, Sparkassenstraße 15 · Psychologische Therapie in Südtirol vor Ort oder online
+→ [Termin anfragen](/termin)
