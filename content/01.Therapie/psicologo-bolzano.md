@@ -6,9 +6,6 @@ navigation:
 seo:
   title: "Psicologo Bolzano | Consulenza e Psicologia a Bolzano"
   description: "Cerchi uno psicologo a Bolzano? Informazioni professionali su psicologia e sostegno psicologico con sedute esclusivamente in lingua tedesca."
-sitemap:
-  loc: /therapie/psicologo-bolzano
-  lastmod: 2026-04-14
 ---
 
 # Psicologo a Bolzano - Servizio di Psicologia e Consulenza
