@@ -141,12 +141,10 @@ Nein, nicht zwingend. Viele Menschen beginnen eine Therapie, während sie weiter
 
 ## Erstes Gespräch vereinbaren
 
-Wenn Sie spüren, dass Belastung und Erschöpfung größer werden als Ihre Möglichkeiten zur Erholung, kann ein erstes Gespräch ein hilfreicher Schritt sein. Sie müssen nicht bereits genau wissen, ob es „Burnout" ist – es reicht, dass Sie merken: Ich brauche Unterstützung.
+Wenn Belastung, Erschöpfung oder innerer Druck zu viel werden, kann ein erstes Gespräch helfen, die Situation zu sortieren und mögliche nächste Schritte zu klären.
 
-Meine Praxis befindet sich in Bozen und richtet sich an Erwachsene aus Bozen und Südtirol, die psychologische Unterstützung bei Erschöpfung, Stress und Überforderung suchen. Termine sind vor Ort in der Praxis oder online möglich – besonders dann, wenn die Anfahrt länger ist oder Ihre Energie im Moment begrenzt ist.
+Sie müssen nicht genau wissen, ob es „Burnout“ ist. Es reicht, dass Sie merken: So wie bisher geht es nicht gut weiter.
 
-Gemeinsam schauen wir auf Ihre Situation und entwickeln neue Wege im Umgang mit Belastung, Grenzen und Erholung.
+Termine sind in meiner Praxis in Bozen oder online möglich.
 
-→ [Termin vereinbaren](/termin)
-
-Praxis in Bozen, Sparkassenstraße 15 · Burnout Hilfe für Erwachsene in Südtirol – vor Ort oder online
+→ [Ein erstes Gespräch anfragen](/termin)
