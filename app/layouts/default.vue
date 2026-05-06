@@ -171,6 +171,9 @@ useHead({
       innerHTML: JSON.stringify(structuredData),
     },
   ],
+}, {
+  // Höhere Priorität, damit unsere dynamische lang-Logik Vorrang vor @nuxtjs/seo hat
+  tagPriority: 'high'
 });
 </script>
 <template>
