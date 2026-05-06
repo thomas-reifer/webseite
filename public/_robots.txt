@@ -4,10 +4,3 @@ Disallow: /api/
 
 # Sitemap
 Sitemap: https://thomasreifer.com/sitemap.xml
-
-# Block AI crawlers
-User-Agent: GPTBot
-Disallow: /
-
-User-Agent: ChatGPT-User
-Disallow: /
