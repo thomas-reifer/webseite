@@ -111,9 +111,13 @@ const structuredData = {
   ]
 };
 	
+// Sprache je nach Route bestimmen (italienische Seite => it-IT, sonst de-IT)
+const isItalian = computed(() => route.path.startsWith('/therapie/psicologo-bolzano'));
+const currentLang = computed(() => isItalian.value ? 'it-IT' : 'de-IT');
+
 useHead({
   htmlAttrs: {
-    lang: "de-IT",
+    lang: currentLang,
   },
   link: [
 /*
@@ -142,7 +146,23 @@ useHead({
 */
     {
       rel: "canonical",
-      href: "https://thomasreifer.com" + useRoute().path,
+      href: "https://thomasreifer.com" + route.path,
+    },
+    // hreflang: signalisiert Google die deutsche/italienische Sprachvariante
+    {
+      rel: "alternate",
+      hreflang: "de",
+      href: "https://thomasreifer.com/therapie/erwachsene",
+    },
+    {
+      rel: "alternate",
+      hreflang: "it",
+      href: "https://thomasreifer.com/therapie/psicologo-bolzano",
+    },
+    {
+      rel: "alternate",
+      hreflang: "x-default",
+      href: "https://thomasreifer.com/therapie/erwachsene",
     },
   ],
   script: [
