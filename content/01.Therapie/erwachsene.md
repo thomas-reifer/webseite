@@ -18,7 +18,7 @@ Hier kann ich Sie unterstützen...
 
 - [Stress, Erschöpfungssymptome und Burnout](/therapie/erwachsene#stress-ersch%C3%B6pfung-und-burnout)
 - [Depressive Störungen und anhaltende Niedergeschlagenheit](/therapie/erwachsene#depression)
-- [Angststörungen, innere Unruhe und Panikattacken](/therapie/erwachsene#angst-angstsymptomen-und-panikattacken)
+- [Angststörungen, innere Unruhe und Panikattacken](/therapie/erwachsene#angst-angstsymptome-und-panikattacken)
 - [Zwangsstörungen und belastende Zwangsgedanken](/therapie/erwachsene#zwangsst%C3%B6rungen)
 - [Traumatische Erfahrungen und psychische Traumafolgen](/therapie/erwachsene#traumatische-erlebnisse)
 - [Schlafstörungen und stressbedingte Schlafprobleme](/therapie/erwachsene#schlafst%C3%B6rungen)
@@ -34,7 +34,7 @@ Anhaltender Stress führt oft dazu, dass die eigenen Bedürfnisse aus dem Blick 
 ## Depression
 Eine Depression raubt oft den Antrieb und die Sicht auf das Positive. Die Therapie unterstützt Sie dabei, den „Nebel“ schrittweise zu lichten und wieder **Zugang zu Ihren eigenen Ressourcen** zu finden. Gemeinsam bauen wir emotionale Stabilität auf, damit Sie wieder aktiv am Leben teilnehmen können und Schritt für Schritt zu **Sinnhaftigkeit und innerer Kraft** zurückfinden.
 
-## Angst, Angstsymptomen und Panikattacken
+## Angst, Angstsymptome und Panikattacken
 Angst ist ein mächtiges Gefühl, muss aber nicht Ihren Alltag bestimmen. In der Behandlung lernen Sie, die Mechanismen hinter der Angst zu verstehen und **Sicherheit im Umgang mit Panikattacken** zu gewinnen. Ziel ist es, Vermeidungsverhalten abzubauen, damit Sie sich wieder **frei, unbeschwert und mutig in Ihrem Umfeld bewegen** können.
 
 ## Zwangsstörungen
