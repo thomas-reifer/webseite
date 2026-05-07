@@ -14,7 +14,7 @@ seo:
 
 Sie funktionieren noch – aber es kostet immer mehr Kraft. Der Schlaf erholt nicht mehr, das Wochenende reicht kaum aus, und der Gedanke an die nächste Arbeitswoche fühlt sich schwer an.
 
-Vielleicht merken Sie, dass Sie gereizter reagieren, sich innerlich leer fühlen oder sich von Menschen und Dingen zurückziehen, die Ihnen früher wichtig waren. Vielleicht versuchen Sie, weiterzumachen wie bisher – obwohl Sie längst spüren, dass etwas nicht mehr stimmt.
+Vielleicht merken Sie, dass Sie gereizter reagieren, sich innerlich leer fühlen oder sich von Menschen und Dingen zurückziehen, die Ihnen früher wichtig waren.
 
 Burnout ist kein Zeichen von Schwäche. Häufig entsteht er über längere Zeit, wenn Belastung, Verantwortung und innerer Druck größer werden als Erholung, Anerkennung und Selbstfürsorge.
 
@@ -58,15 +58,17 @@ Mögliche Warnzeichen sind:
 
 Ein deutliches Warnsignal ist, wenn selbst Wochenende oder Urlaub keine echte Erholung mehr bringen.
 
-## Wie Burnout sich entwickeln kann
+## Wie Burnout entstehen kann
 
 Burnout entsteht meist nicht plötzlich. Am Anfang steht oft ein hohes Maß an Engagement: mehr arbeiten, weniger Pausen machen, erreichbar bleiben, Verantwortung übernehmen, sich zusammenreißen.
 
-Mit der Zeit werden eigene Bedürfnisse immer häufiger übergangen. Erholung wird verschoben, Grenzen werden weniger gespürt, innere Antreiber wie „Ich muss das schaffen“ oder „Ich darf niemanden enttäuschen“ werden stärker. Was früher sinnvoll und kraftvoll war, beginnt zu erschöpfen.
+Mit der Zeit werden eigene Bedürfnisse immer häufiger übergangen. Erholung wird verschoben, Grenzen werden weniger gespürt, innere Antreiber wie „Ich muss das schaffen“ oder „Ich darf niemanden enttäuschen“ werden stärker. Was früher hilfreich und kraftvoll war, beginnt zu erschöpfen.
 
-Später können Leistungsabfall, Gereiztheit, Schlafprobleme, sozialer Rückzug oder körperliche Symptome hinzukommen. In schweren Phasen können auch Hoffnungslosigkeit, depressive Symptome oder Lebensüberdruss auftreten.
+Dabei entsteht Burnout selten nur durch „zu viel Arbeit“. Häufig treffen äußere Belastungen und innere Muster zusammen: Zeitdruck, hohe Verantwortung, ständige Erreichbarkeit, fehlende Anerkennung, Konflikte, Wertekonflikte oder wenig Einfluss auf die eigene Arbeit – aber auch Perfektionismus, Pflichtgefühl, Verantwortungsdruck oder der Anspruch, immer stark sein zu müssen.
 
-Wenn Suizidgedanken bestehen oder Sie das Gefühl haben, sich selbst nicht mehr sicher zu sein, ist sofortige ärztliche oder psychiatrische Hilfe notwendig. In solchen Situationen wenden Sie sich bitte unmittelbar an den Notdienst, Ihren Hausarzt, eine psychiatrische Fachstelle oder die nächstgelegene Notaufnahme.
+In der Therapie geht es nicht darum, diese Eigenschaften abzuwerten. Es geht darum, sie besser zu verstehen und so einzusetzen, dass sie nicht gegen Sie arbeiten.
+
+> **Wichtig:** Wenn Suizidgedanken bestehen oder Sie das Gefühl haben, sich selbst nicht mehr sicher zu sein, wenden Sie sich bitte sofort an den Notdienst, Ihren Hausarzt, eine psychiatrische Fachstelle oder die nächstgelegene Notaufnahme.
 
 ## Wann Burnout Therapie sinnvoll ist
 
@@ -99,17 +101,7 @@ Je nach Situation arbeiten wir an Stabilisierung, Stressregulation, Selbstfürso
 
 Methodisch können verhaltenstherapeutische, achtsamkeitsbasierte und schematherapeutische Elemente sowie Übungen zur Stressbewältigung und Entspannung einfließen. Welche Schwerpunkte sinnvoll sind, ergibt sich aus dem gemeinsamen Verstehen Ihrer Situation – nicht aus einem festen Schema.
 
-Ziel ist nicht, in alte Überforderung zurückzukehren. Ziel ist, wieder mehr Selbstkontakt, Klarheit und Handlungsspielraum zu gewinnen.
-
-## Burnout, Arbeit und innere Antreiber
-
-Burnout entsteht selten nur durch „zu viel Arbeit“. Häufig treffen äußere Belastungen und innere Antreiber zusammen.
-
-Äußere Faktoren können Zeitdruck, hohe Verantwortung, ständige Erreichbarkeit, fehlende Anerkennung, Konflikte, Wertekonflikte oder wenig Einfluss auf die eigene Arbeit sein. Auch private Belastungen, Pflegeverantwortung oder lange Phasen ohne echte Erholung können eine Rolle spielen.
-
-Gleichzeitig bringen viele Betroffene Eigenschaften mit, die lange hilfreich waren: Verlässlichkeit, Idealismus, Empathie, Pflichtgefühl, Genauigkeit, Ausdauer. Unter Dauerbelastung können diese Stärken jedoch erschöpfend werden – besonders dann, wenn Pausen, Grenzen und eigene Bedürfnisse zu wenig Raum bekommen.
-
-In der Therapie geht es nicht darum, diese Eigenschaften abzuwerten. Es geht darum, sie besser zu verstehen und so einzusetzen, dass sie nicht gegen Sie arbeiten.
+Ziel ist nicht, in alte Überforderung zurückzukehren. Ziel ist, wieder mehr Klarheit, Selbstfürsorge und Handlungsspielraum zu gewinnen.
 
 ## Sorgfältige Abklärung: Körper und Psyche ernst nehmen
 
@@ -125,9 +117,9 @@ Medikamente werden ausschließlich ärztlich verordnet und begleitet. Auch Krank
 
 Das ist individuell verschieden. Es hängt davon ab, wie lange die Erschöpfung bereits besteht, wie stark die Symptome sind und welche inneren oder äußeren Faktoren beteiligt sind. Manche Menschen profitieren von einer kürzeren Begleitung zur Stabilisierung und Orientierung. Andere nutzen die Therapie, um tieferliegende Muster nachhaltiger zu bearbeiten.
 
-### Sind Online-Termine bei Burnout sinnvoll?
+### Sind Online-Termine bei Burnout möglich?
 
-Online-Termine können bei Burnout sinnvoll sein, besonders wenn Anfahrt, Erschöpfung oder zeitliche Belastung eine zusätzliche Hürde darstellen. Für Menschen aus Südtirol außerhalb von Bozen kann das eine praktische Entlastung sein. Bei akuten Krisen, Suizidgedanken oder sehr schweren Symptomen ist jedoch direkte ärztliche oder psychiatrische Hilfe vor Ort wichtig.
+Online-Termine sind bei Burnout grundsätzlich möglich, besonders wenn Anfahrt, Erschöpfung oder zeitliche Belastung eine zusätzliche Hürde darstellen. Für Menschen aus Südtirol außerhalb von Bozen kann das eine praktische Entlastung sein. Bei akuten Krisen, Suizidgedanken oder sehr schweren Symptomen ist jedoch direkte ärztliche oder psychiatrische Hilfe vor Ort wichtig.
 
 ### Was ist der Unterschied zwischen Burnout und Depression?
 
