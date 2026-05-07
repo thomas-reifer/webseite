@@ -13,7 +13,6 @@ useSeoMeta(page.value?.seo || {})
 
 <template>
  <u-container class="prose no-underline">
-  {{ page?.head }}
     <ContentRenderer v-if="page" :value="page" />
     <div v-else>Not Found</div>
   </u-container>
