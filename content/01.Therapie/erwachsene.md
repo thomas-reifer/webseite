@@ -8,11 +8,11 @@ seo:
   description: "Psychologische Beratung und Psychotherapie (i.A.) in Bozen Südtirol. Unterstützung bei Burnout, Depressionen, Ängsten, Zwängen, Stress, Krisen und körperlichen Erkrankungen – vor Ort oder online."
 ---
 
-# Psychologische Therapie in Bozen für Erwachsene und Jugendliche
+# Raum für Klarheit, Stabilität und Veränderung
 
-Viele Erwachsene und Jugendliche aus Bozen und Südtirol suchen psychologische Unterstützung, wenn Belastungen anhalten, Entscheidungen schwerfallen oder der Alltag zunehmend erschöpfend wird. Psychologische Therapie bietet einen geschützten Rahmen, um die eigene Situation besser zu verstehen, innere Stabilität zu fördern und neue Handlungsmöglichkeiten zu entwickeln.
+Psychologische Begleitung kann helfen, belastende Situationen besser zu verstehen und neue Handlungsmöglichkeiten zu entwickeln.
 
-Gemeinsam schauen wir darauf, was Sie belastet, welche Muster sich wiederholen und welche Schritte hilfreich sein können. Ziel ist es, Ihre Ressourcen zu stärken und den Alltag wieder klarer, stabiler und selbstbestimmter zu gestalten.
+Gemeinsam schauen wir darauf, was Sie aktuell belastet und welche nächsten Schritte sinnvoll sein können.
 
 ## Dabei kann ich Sie unterstützen
 
