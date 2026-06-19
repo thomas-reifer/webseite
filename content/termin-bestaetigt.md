@@ -5,8 +5,6 @@ navigation: false
 robots: "noindex, nofollow"
 ---
 
-#center
-
 # Vielen Dank
 
 ## Ihre Terminanfrage wurde erfolgreich übermittelt.
