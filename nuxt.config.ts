@@ -6,24 +6,31 @@ export default defineNuxtConfig({
   ui: { fonts: false },
 
 app: {
-    head: {
-      script: [
-        {
-          src: "https://www.googletagmanager.com/gtag/js?id=G-BJ9F2WTQT3",
-          async: true
-        },
-        {
-          innerHTML: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-BJ9F2WTQT3');
-            gtag('config', 'AW-18054875614');
-          `
-        }
-      ]
-    }
-  },
+  head: {
+    script: [
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-BJ9F2WTQT3",
+        async: true
+      },
+      {
+        innerHTML: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-BJ9F2WTQT3');
+          gtag('config', 'AW-18054875614');
+
+          if (
+            window.location.pathname === '/termin-bestaetigt' ||
+            window.location.pathname === '/termin-bestaetigt/'
+          ) {
+            gtag('event', 'ads_conversion_Terminanfrage_abgeschlo_1', {});
+          }
+        `
+      }
+    ]
+  }
+},
   
 // Umami Konfiguration (Host & ID bleiben gleich)
   umami: {
