@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   ssr: true,
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
+  ui: { fonts: false },
 // Umami Konfiguration (Host & ID bleiben gleich)
   umami: {
     id: "13d17051-d310-4ca4-ae6a-ebe72b37580f",
