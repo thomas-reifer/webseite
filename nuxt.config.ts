@@ -4,6 +4,26 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
   ui: { fonts: false },
+
+app: {
+    head: {
+      script: [
+        {
+          src: "https://www.googletagmanager.com/gtag/js?id=G-BJ9F2WTQT3",
+          async: true
+        },
+        {
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-BJ9F2WTQT3');
+          `
+        }
+      ]
+    }
+  },
+  
 // Umami Konfiguration (Host & ID bleiben gleich)
   umami: {
     id: "13d17051-d310-4ca4-ae6a-ebe72b37580f",
