@@ -18,6 +18,7 @@ app: {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-BJ9F2WTQT3');
+            gtag('config', 'AW-18054875614');
           `
         }
       ]
