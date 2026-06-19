@@ -19,13 +19,6 @@ app: {
           gtag('js', new Date());
           gtag('config', 'G-BJ9F2WTQT3');
           gtag('config', 'AW-18054875614');
-
-          if (
-            window.location.pathname === '/termin-bestaetigt' ||
-            window.location.pathname === '/termin-bestaetigt/'
-          ) {
-            gtag('event', 'ads_conversion_Terminanfrage_abgeschlo_1', {});
-          }
         `
       }
     ]
