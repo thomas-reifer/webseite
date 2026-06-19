@@ -5,6 +5,9 @@ navigation: false
 robots: "noindex, nofollow"
 ---
 
+::GoogleAdsConversion
+::
+
 # Vielen Dank
 
 ## Ihre Terminanfrage wurde erfolgreich übermittelt.
